@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a passionate software developer and student ma
 ## 🔄 Current Projects
 - **Instagram-Type Community App**: A Flutter-based app for a community in Maharashtra.
 - **MayChat**: A chat application using Flutter, GetX, and Firebase.
-- **Hostel Room Allocation App**: Solving room allocation issues in my college with Tinder-style matching.
+- **Sort Analyzer**: A DSA project helps in visualizing the working of different sorting techniques.
 
 ## 🌱 Learning
 - Currently learning **Flutter Secure Storage** and **Hive** for efficient data management.
